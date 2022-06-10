@@ -11,8 +11,7 @@ This project is a front-end application created with reausable components using 
 ### Preview
 Print of the finished project.
 
-
-
+![github_api_img](https://user-images.githubusercontent.com/95775417/173144962-831c584d-1e23-4833-a995-74031c0b4126.png)
 
 
 

@@ -17,5 +17,5 @@ Print of the finished project.
 - Clone this repository into your local machine
 - Open a terminal into your IDE with the project opened
 - Run the code: "npm install" or "yarn" to install the dependencies
-- Run the code "npm run dev" or "yarn run dev" to run the application
+- Run the code "npm start" or "yarn start" to run the application
 - Click the localhost item to open the application in your browser
